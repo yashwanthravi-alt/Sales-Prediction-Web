@@ -79,6 +79,10 @@ Open the local URL displayed in the terminal to use the application.
 
 The Streamlit web application can be deployed using Streamlit Community Cloud.
 
+## 🔗 Url
+
+https://sales-prediction-yashwanth.streamlit.app    
+
 ## 📈 Features
 
 - Advertising budget input fields
